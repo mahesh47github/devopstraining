@@ -5,5 +5,11 @@ reset1
 
 reset2
 reset3
+<<<<<<< HEAD
 rebase1
 rebase21
+=======
+rebase2
+rebase4
+>>>>>>> rebase4
+revert change
