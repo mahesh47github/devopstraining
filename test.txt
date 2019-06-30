@@ -6,3 +6,4 @@ reset1
 reset2
 reset3
 rebase1
+rebase21
